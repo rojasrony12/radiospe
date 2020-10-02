@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gM2SFsZvYx.png",88.3 Mágica
+https://14103.live.streamtheworld.com/MAG_SC?csegid=30006&dist=30006
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tkVbkyCh6S.jpg",88.9 Felicidad
+https://18313.live.streamtheworld.com/RADIO_FELICIDAD_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/WkzScZeaR2.jpg",89.7 RPP
+https://16823.live.streamtheworld.com/RADIO_RPP_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Z6ZZYZYE6R.jpg",90.5 La Zona
+https://22203.live.streamtheworld.com/RADIO_LAZONA_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/f7srrqlddlud.png",91.9 Cumbia Mix
+http://192.99.148.184:5670/;
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/c9naybugfeej.png",92.1 Radio Disney
+https://www.ujjina.net:2020/stream/radiodisneyperu
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg",92.5 Studio 92
+https://20803.live.streamtheworld.com/RADIO_STUDIO92_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png",93.1 Ritmo Romántica
+https://18233.live.streamtheworld.com/CRP_RIT_SC?dist=20001
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2b7cvuLrCb.png",93.7 La Inolvidable
+https://18743.live.streamtheworld.com/CRP_LI_SC?dist=20001
+#EXTM3U
