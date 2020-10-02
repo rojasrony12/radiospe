@@ -17,4 +17,30 @@ https://20803.live.streamtheworld.com/RADIO_STUDIO92_SC
 https://18233.live.streamtheworld.com/CRP_RIT_SC?dist=20001
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2b7cvuLrCb.png",93.7 La Inolvidable
 https://18743.live.streamtheworld.com/CRP_LI_SC?dist=20001
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eLk5CpPL4E.jpg",94.3 Corazón
+https://22203.live.streamtheworld.com/RADIO_CORAZON_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/4T9RuHnF42.png",94.9 La Karibeña
+http://167.114.116.212:1935/corporacionz/karibena2016.stream/chunklist_w838250007.m3u8
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tq4NUPk2pm.png",95.5 Exitosa
+https://node-11.zeno.fm/z20rhkmgzeruv.aac?rj-ttl=5&rj-tok=AAABdNV1d5IAWkGClWhBvNkqrA
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/9hxrjuhEGv.png",96.1 La Kalle
+http://167.114.116.212:1935/grupovegas/kalle.stream/chunklist_w1316360619.m3u8
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gxKy7JRwrW.jpg",96.7 Capital
+https://18623.live.streamtheworld.com/RADIO_CAPITAL.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dEg9AUE3CD.png",97.3 Moda
+https://18513.live.streamtheworld.com/CRP_MOD_SC?dist=20001
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Adjngp9Gps.png",98.1 Onda Cero
+http://192.99.148.184:6720/;*.mp3
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png",100.1 Oasis
+https://19013.live.streamtheworld.com/CRP_OAS_SC?dist=20001
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png",101.1 Panamericana
+http://192.99.148.184:6710/;*.mp3
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpg",102.1 Radio Oxígeno
+https://16603.live.streamtheworld.com/RADIO_OXIGENO_SC
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png",106.3 Radiomar
+https://18323.live.streamtheworld.com/CRP_MAR_SC?dist=20001
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8fTKXj2Ynz.png",107.1 Nueva Q
+https://20843.live.streamtheworld.com/CRP_NQ_SC?csegid=30006&dist=30006
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png",107.7 Planeta
+https://19013.live.streamtheworld.com/CRP_PLA_SC?dist=20001
 #EXTM3U
