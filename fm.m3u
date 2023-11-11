@@ -34,7 +34,7 @@ http://192.99.148.184:6720/;*.mp3
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png",100.1 Oasis
 https://18213.live.streamtheworld.com/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png",101.1 Panamericana
-http://192.99.148.184:6710/;*.mp3
+https://r3---sn-nja7snll.gvt1.com/videoplayback/id/4e0788d52710ce22/itag/51/source/dclk_video_ads/requiressl/yes/acao/yes/mime/audio%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1699685391/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source/signature/62874A8C11F6044EFF53F6B5503DB16D650832A7.7B1A3A5FBBCA745C9840AD68F0D617ADF6273067/key/cms1/mh/OL/pl/24/redirect_counter/1/rm/sn-uqx2-aph67r/req_id/8846060af68636e2/cms_redirect/yes/mip/181.64.193.16/mm/29/mn/sn-nja7snll/ms/rdu/mt/1699663506/mv/m/mvi/3?file=file.m4a
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpg",102.1 Radio Oxígeno
 https://16603.live.streamtheworld.com/RADIO_OXIGENO_SC
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png",106.3 Radiomar
