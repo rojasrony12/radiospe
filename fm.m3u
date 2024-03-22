@@ -30,11 +30,11 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a79
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dEg9AUE3CD.png",97.3 Moda
 https://16603.live.streamtheworld.com/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Adjngp9Gps.png",98.1 Onda Cero
-https://streaming.gometri.com/stream/8011/stream
-#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png",100.1 Oasis
-https://18213.live.streamtheworld.com/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=MpmIQHJm8YU2eC75ePxD0flrYMSl58Rl&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708170226172&ot=TE21wOgwlIzvrpf2KL9GzQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png",99.1 Doble Nueve
+http://149.56.241.147:8002/stream
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png",101.1 Panamericana
-https://streaming.gometri.com/stream/8000/stream
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=zXKd6u7P87EiWoK1ehUGRwi8bagVqbW7&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170129466&ot=a84Nf4wBpIk4nsTVd6H7dw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpg",102.1 Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png",106.3 Radiomar
@@ -43,4 +43,3 @@ https://18813.live.streamtheworld.com/CRP_MAR_SC?csegid=20001&dist=20001&ttag=20
 https://27163.live.streamtheworld.com/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001
 #EXTINF:-1 group-title="Radios FM" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png",107.7 Planeta
 https://24463.live.streamtheworld.com/CRP_PLA_SC?csegid=20001&dist=20001&ttag=20001
-#EXTM3U
